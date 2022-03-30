@@ -31,7 +31,8 @@ And susequently follow the instructions..
 
 # 3: Download Postman 👩‍🚀
 
-Download and install postman from below link:
+Download and install postman from link below:
+
 https://www.postman.com/downloads/
 
 
