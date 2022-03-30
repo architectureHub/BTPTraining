@@ -1,6 +1,6 @@
-# BTPTraining
+# BTPTraining 🚀🚀🚀
 
-# 1: Create SAP Account
+# 1: Create SAP Account ☁
 
 Go to SAP.com
 click on Logon as shown below:
@@ -16,7 +16,7 @@ You will receive an email from SAP to activate your account.
 Thats it...!!! 
 
 
-# 2: Create a GitHub Account
+# 2: Create a GitHub Account 👩‍💻
 
 Go to github.com
 click on signup button as below:
@@ -29,13 +29,13 @@ Enter your email address:
 
 And susequently follow the instructions..
 
-# 3: Download Postman
+# 3: Download Postman 👩‍🚀
 
 Download and install postman from below link:
 https://www.postman.com/downloads/
 
 
-# warm-up!
+# warm-up!🏌️‍♀️
 https://www.youtube.com/watch?v=w4KDYB4QXxE
 
 https://www.youtube.com/watch?v=XdCpCkh4vjg
