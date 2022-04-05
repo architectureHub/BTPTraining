@@ -20,6 +20,6 @@ After the installation
 ![image](https://user-images.githubusercontent.com/102216258/161792165-e8ccc55f-3ab1-48e2-b0f0-b8bdcb294ec6.png)
 
 
-Open the command line again, and type "cf --help" or "cf--version"
+Open the command line again, and type "cf --help" or "cf --version"
 
 ![image](https://user-images.githubusercontent.com/102216258/161792506-73c1ef61-7ae2-4b52-91e0-edf51957f82e.png)
